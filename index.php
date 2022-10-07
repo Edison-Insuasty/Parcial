@@ -23,8 +23,6 @@
                             <button type="submit" class="btn btn-success" style="margin-right: 100px">Opcion1</button>
                             <button type="button" class="btn btn-warning" style="margin-right: 100px">Opcion2</button>
                             <a href=""><input type="button" value="Opcion3" class="btn btn-danger"> </a>  
-                            
-
                                
                         </div>
                        <br><br><br><br>
@@ -46,21 +44,13 @@
                     <div class="col-6">
                         <label for="direccion" class="form-label">campo3<noframes></noframes></label>
                         <input type="text" class="form-control" id="materia" name="materia">
-                    </div>
-
-                   
+                    </div>                 
                 </div>
                   
                      <br>
                     </div>
                 </div>
-
-               
-
             </form>
-              
-
-       
     </div>
 
 </body>
